@@ -28,9 +28,35 @@ The formated output will generally contain three parts:
 - The table should only include nouns, verbs, adverbs, adjectives 
 - Do not provide particles in the vocabulary, students need to figure this the correct particles to use
 -the table of vocabulary should only ahve the following columns: Japanese, Rumaji and English
+- no repeats allowed eg. if miru is repeated more than once, show once once
+- show most common example of a word having multiple versions
 
 ### Sentence Structure
 - no particles in the sentence structure
+- ne tenses' or conjugations' provision in the sentence structure
+- consider providing beginner level sentence structures
+
+Examples of simple sentence structures
+- [Subject] + [Description] → "This is a book."
+- [Thing] + [Location] + [Verb] → "The book is on the desk."
+- [Living Thing] + [Location] + [Verb] → "The dog is outside."
+- [Subject] + [Object] + [Verb] → "I eat bread."
+- [Subject] + [Location] + [Object] + [Verb] → "I read books at the library."
+- [Statement] + [Question Marker] → "Are you a student?"
+- [Thing] + [Where Question] → "Where is the bathroom?"
+- [Subject] + [What Question] → "What is this?"
+- [Person] + [Who Question] → "Who is that person?"
+- [Time] + [Subject] + [Object] + [Past Action] → "Yesterday, I watched a movie."
+- [Desire Phrase] → "I want to go to Japan."
+- [Subject] + [Ability] + [Verb] → "I can swim."
+- [Subject] + [Necessity] + [Verb] → "I have to study."
+- [Subject] + [Object] + [Like/Dislike] → "I like sushi."
+- [Subject] + [Preference] → "I prefer tea over coffee."
+- [Condition] + [Result] → "If it rains, I will stay home."
+- [Experience] + [Past Action] → "I have been to Tokyo."
+- [Subject] + [Plan] + [Future Action] → "I will travel next week."
+- [Subject] + [Invitation] → "Shall we go to the park?"
+- [Request] + [Action] → "Please pass me the salt."
 
 ### Clues and Considerations
 - try and provide non-nestedd bulletedd list
@@ -66,4 +92,4 @@ The formated output will generally contain three parts:
 </example>
 
 ## Student input: 
-Bears are at the door, did you leave the garbage out? 
+Did you see the raven this morning? they were looking at out garden.
