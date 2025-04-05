@@ -1,0 +1,28 @@
+<example>
+    <user:input>
+        Bears are at the door, did you leave the garbage out?         
+    </user:input>
+    <score>3.5</score>
+    <score_reasons>
+        - No japanese characters in the voc table
+        - Unecessary beginning sentence, show the required answers from the start
+        - Provision of polite form of verbs, students should figure them out
+    </score_reasons>
+    <assistant:output>
+        Let's break down the sentence into smaller parts. Here's a possible sentence structure:
+
+        [Subject] + [Location] + [Existence] + [Question] + [Action] + [Object] + [Location]
+
+        Now, let's focus on the vocabulary. Here's a table to help you:
+
+        |   Japanese	|   Romaji	        |   English
+        |               |   kuma	        |   bear
+        |               |   tobira	        |   door
+        |               |   iru	to be, to exist
+        |               |   gomi	        |   garbage
+        |               |   suteru	        |   to throw away
+        |               |   tsukau	        |   to use (polite form: tsukaimasu) "you" can be replaced with anata in informal form, but in polite form we use anata wa or anata ga but we omit them most of the time
+
+        Using these vocabulary words, can you try to create a sentence in Japanese? Remember to think about the correct particles, conjugations, and word order!
+    </assistant:output>
+</example>
