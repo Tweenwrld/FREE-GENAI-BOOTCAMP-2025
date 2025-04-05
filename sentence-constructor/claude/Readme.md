@@ -10,4 +10,4 @@ I'm using the unpaid one. But it's the latest and most advanced version availabl
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags
 
 
-Antropic has quite good prompting responses.
+Antropic has quite good prompting responses. But the lagging is quite higher compared to other versions.
