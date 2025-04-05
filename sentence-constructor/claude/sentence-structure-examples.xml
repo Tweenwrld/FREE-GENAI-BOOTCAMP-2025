@@ -1,0 +1,86 @@
+<sentence-structure-examples>
+  <example>
+    <sentence>The bird is black.</sentence>
+    <structure>[Subject][Adjective]</structure>
+  </example>
+  <example>
+    <sentence>This is a book.</sentence>
+    <structure>[Subject] + [Description]</structure>
+  </example>
+  <example>
+    <sentence>The book is on the desk.</sentence>
+    <structure>[Thing] + [Location] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>The dog is outside.</sentence>
+    <structure>[Living Thing] + [Location] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>I eat bread.</sentence>
+    <structure>[Subject] + [Object] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>I read books at the library.</sentence>
+    <structure>[Subject] + [Location] + [Object] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>Are you a student?</sentence>
+    <structure>[Statement] + [Question Marker]</structure>
+  </example>
+  <example>
+    <sentence>Where is the bathroom?</sentence>
+    <structure>[Thing] + [Where Question]</structure>
+  </example>
+  <example>
+    <sentence>What is this?</sentence>
+    <structure>[Subject] + [What Question]</structure>
+  </example>
+  <example>
+    <sentence>Who is that person?</sentence>
+    <structure>[Person] + [Who Question]</structure>
+  </example>
+  <example>
+    <sentence>Yesterday, I watched a movie.</sentence>
+    <structure>[Time] + [Subject] + [Object] + [Past Action]</structure>
+  </example>
+  <example>
+    <sentence>I want to go to Japan.</sentence>
+    <structure>[Desire Phrase]</structure>
+  </example>
+  <example>
+    <sentence>I can swim.</sentence>
+    <structure>[Subject] + [Ability] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>I have to study.</sentence>
+    <structure>[Subject] + [Necessity] + [Verb]</structure>
+  </example>
+  <example>
+    <sentence>I like sushi.</sentence>
+    <structure>[Subject] + [Object] + [Like/Dislike]</structure>
+  </example>
+  <example>
+    <sentence>I prefer tea over coffee.</sentence>
+    <structure>[Subject] + [Preference]</structure>
+  </example>
+  <example>
+    <sentence>If it rains, I will stay home.</sentence>
+    <structure>[Condition] + [Result]</structure>
+  </example>
+  <example>
+    <sentence>I have been to Tokyo.</sentence>
+    <structure>[Experience] + [Past Action]</structure>
+  </example>
+  <example>
+    <sentence>I will travel next week.</sentence>
+    <structure>[Subject] + [Plan] + [Future Action]</structure>
+  </example>
+  <example>
+    <sentence>Shall we go to the park?</sentence>
+    <structure>[Subject] + [Invitation]</structure>
+  </example>
+  <example>
+    <sentence>Please pass me the salt.</sentence>
+    <structure>[Request] + [Action]</structure>
+  </example>
+</sentence-structure-examples>
